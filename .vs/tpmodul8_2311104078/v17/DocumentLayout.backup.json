@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{544D0343-1F17-4F2F-877D-F235B7D0A1D1}|tpmodul8_2311104078\\tpmodul8_2311104078.csproj|c:\\users\\naura\\documents\\kuliah\\semester 4\\konstruksi perangkat lunak\\modul 8\\tpmodul8_2311104078\\tpmodul8_2311104078\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{544D0343-1F17-4F2F-877D-F235B7D0A1D1}|tpmodul8_2311104078\\tpmodul8_2311104078.csproj|solutionrelative:tpmodul8_2311104078\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544D0343-1F17-4F2F-877D-F235B7D0A1D1}|tpmodul8_2311104078\\tpmodul8_2311104078.csproj|c:\\users\\naura\\documents\\kuliah\\semester 4\\konstruksi perangkat lunak\\modul 8\\tpmodul8_2311104078\\tpmodul8_2311104078\\covidconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544D0343-1F17-4F2F-877D-F235B7D0A1D1}|tpmodul8_2311104078\\tpmodul8_2311104078.csproj|solutionrelative:tpmodul8_2311104078\\covidconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544D0343-1F17-4F2F-877D-F235B7D0A1D1}|tpmodul8_2311104078\\tpmodul8_2311104078.csproj|c:\\users\\naura\\documents\\kuliah\\semester 4\\konstruksi perangkat lunak\\modul 8\\tpmodul8_2311104078\\tpmodul8_2311104078\\covid_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{544D0343-1F17-4F2F-877D-F235B7D0A1D1}|tpmodul8_2311104078\\tpmodul8_2311104078.csproj|solutionrelative:tpmodul8_2311104078\\covid_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CovidConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Naura\\Documents\\KULIAH\\SEMESTER 4\\Konstruksi Perangkat Lunak\\MODUL 8\\tpmodul8_2311104078\\tpmodul8_2311104078\\CovidConfig.cs",
+              "RelativeDocumentMoniker": "tpmodul8_2311104078\\CovidConfig.cs",
+              "ToolTip": "C:\\Users\\Naura\\Documents\\KULIAH\\SEMESTER 4\\Konstruksi Perangkat Lunak\\MODUL 8\\tpmodul8_2311104078\\tpmodul8_2311104078\\CovidConfig.cs*",
+              "RelativeToolTip": "tpmodul8_2311104078\\CovidConfig.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T03:01:35.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "covid_config.json",
+              "DocumentMoniker": "C:\\Users\\Naura\\Documents\\KULIAH\\SEMESTER 4\\Konstruksi Perangkat Lunak\\MODUL 8\\tpmodul8_2311104078\\tpmodul8_2311104078\\covid_config.json",
+              "RelativeDocumentMoniker": "tpmodul8_2311104078\\covid_config.json",
+              "ToolTip": "C:\\Users\\Naura\\Documents\\KULIAH\\SEMESTER 4\\Konstruksi Perangkat Lunak\\MODUL 8\\tpmodul8_2311104078\\tpmodul8_2311104078\\covid_config.json*",
+              "RelativeToolTip": "tpmodul8_2311104078\\covid_config.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-02T03:00:33.229Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Naura\\Documents\\KULIAH\\SEMESTER 4\\Konstruksi Perangkat Lunak\\MODUL 8\\tpmodul8_2311104078\\tpmodul8_2311104078\\Program.cs",
               "RelativeDocumentMoniker": "tpmodul8_2311104078\\Program.cs",
-              "ToolTip": "C:\\Users\\Naura\\Documents\\KULIAH\\SEMESTER 4\\Konstruksi Perangkat Lunak\\MODUL 8\\tpmodul8_2311104078\\tpmodul8_2311104078\\Program.cs",
-              "RelativeToolTip": "tpmodul8_2311104078\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Naura\\Documents\\KULIAH\\SEMESTER 4\\Konstruksi Perangkat Lunak\\MODUL 8\\tpmodul8_2311104078\\tpmodul8_2311104078\\Program.cs*",
+              "RelativeToolTip": "tpmodul8_2311104078\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-02T02:47:19.711Z",
               "EditorCaption": ""
